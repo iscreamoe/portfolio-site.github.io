@@ -71,7 +71,7 @@ header nav ul li a:hover {
 .top {
 	width: 960px;
 	height: 500px;
-	background-image: url(images/mandala-bg.svg);
+	background-image: url(../images/mandala-bg.svg);
 	background-repeat: no-repeat;
 	background-position: top left;
 	position: relative;
