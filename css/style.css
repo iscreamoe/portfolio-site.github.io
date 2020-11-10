@@ -170,6 +170,9 @@ span {
 	background-color: #f1d7d8;
 	padding-bottom: 50px;
 }
+.contact h2 {
+	text-align: center;
+}
 .contact p {
 	text-align: center;
 }
@@ -187,9 +190,6 @@ span {
 	border-radius: 100%;
 	color: #fff;
 	transition: all 0.5s;
-}
-.sns-box a:first-child {
-	margin-right: 20px;
 }
 .sns-box a:hover {
 	opacity: 0.5;
